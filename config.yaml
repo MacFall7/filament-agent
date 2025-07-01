@@ -1,0 +1,22 @@
+rules:
+  images: ["*.png", "*.jpg", "*.jpeg", "*.gif"]
+  documents: ["*.pdf", "*.docx", "*.txt", "*.md"]
+  audio: ["*.mp3", "*.wav", "*.flac"]
+  video: ["*.mp4", "*.mov", "*.avi"]
+  archives: ["*.zip", "*.tar.gz", "*.rar"]
+  code: ["*.py", "*.js", "*.html", "*.css", "*.ts"]
+  spreadsheets: ["*.csv", "*.xls", "*.xlsx"]
+  presentations: ["*.pptx", "*.key"]
+  old:
+    days: 30
+
+destinations:
+  images: "~/Pictures/Downloads"
+  documents: "~/Documents/Downloads"
+  audio: "~/Music/Downloads"
+  video: "~/Videos/Downloads"
+  archives: "~/Archives"
+  code: "~/Projects/Code_Downloads"
+  spreadsheets: "~/Documents/Spreadsheets"
+  presentations: "~/Documents/Presentations"
+  old: "~/Downloads/Old"

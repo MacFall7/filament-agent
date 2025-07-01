@@ -1,0 +1,27 @@
+# Filament Agent Configuration
+rules:
+  audio:
+    - "*.m4a"
+    - "*.mp3"
+  code:
+    - "*.yaml"
+    - "*.json"
+    - "*.jsx"
+    - "*.sh"
+  executables:
+    - "*.exe"
+  images:
+    - "*.heic"
+  documents:
+    - "*.srt"
+smart_rules:
+  work:
+    - "m87"
+    - "M87"
+destinations:
+  audio: "~/Music/Downloads"
+  code: "~/Documents/Code/Downloads"
+  executables: "~/Downloads/Software"
+  images: "~/Pictures/Downloads"
+  documents: "~/Documents/Downloads"
+  work: "~/Documents/Work"
