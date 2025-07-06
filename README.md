@@ -244,3 +244,9 @@ Filament Agent is a Labs project by [M87 Studio](https://m87.studio) - we build 
 **Tried Hazel and want something better?** Filament Agent offers everything Hazel does, plus full undo capability and smart keyword detection - completely free.
 
 **Built something cool with Filament?** We'd love to hear about it. Share your automation workflows and configurations!
+---
+
+📡 **Get in touch for enterprise deployment**: [m87studio.net](https://www.m87studio.net)  
+🧪 **Apply for early access**: [Join the M87 testnet](https://discord.gg/YOUR_INVITE_HERE)  
+🔐 **Filament is built for compliance-first AI** — HIPAA, EU AI Act, and beyond.
+
