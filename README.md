@@ -1,5 +1,7 @@
 # Filament Agent
 
+Enterprise-grade AI governance layer for agent compliance, safety, and auditability.
+
 **Undoable File Automation for Creators**
 
 > A self-hosted automation kernel that intelligently organizes your Downloads folder with full undo capability. Built by [M87 Studio](https://m87.studio).
